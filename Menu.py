@@ -1,6 +1,6 @@
 """
 Brian Nason
-Student Number: 1003011
+Student Number: xxxxxxx
 
 This class controls the user menu.
 It is modular and full expandable/adaptable.
