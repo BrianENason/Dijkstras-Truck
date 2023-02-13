@@ -1,6 +1,6 @@
 """
 Brian Nason
-Student Number: 1003011
+Student Number: xxxxxxx
 """
 
 from math import ceil
